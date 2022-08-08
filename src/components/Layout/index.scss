@@ -1,0 +1,23 @@
+.page{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.top-tags{
+    bottom:auto;
+    top: 15px;
+}
+
+.tags{
+    color: #ffd700;
+    opacity: 0.8;
+    position: absolute;
+    bottom: 0;
+    left: 120px;
+    font-size: 18px;
+}
+
+.bottom-tags{
+    padding-bottom: 15px;
+}
